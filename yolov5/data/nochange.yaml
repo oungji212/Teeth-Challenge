@@ -1,0 +1,9 @@
+# train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: [path1/images/, path2/images/] 
+train: ../dataset_nochange/images/train/ 
+val: ../dataset_nochange/images/train/ # ../dataset_nochange/images/val/
+
+# number of classes 
+nc: 32 
+
+# class names 
+names: [11,12,13,14,15,16,17,18,21,22,23,24,25,26,27,28,31,32,33,34,35,36,37,38,41,42,43,44,45,46,47,48]
