@@ -1,0 +1,1 @@
+python3 train.py --data ../../../DATA/TEETH/TRAIN --label ../../../DATA/TEETH/train_label.json --weights weights/
